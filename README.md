@@ -62,6 +62,11 @@
   <a href="mouadchahidee@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div> 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mouadchahid1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 
 ###
