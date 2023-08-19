@@ -6,9 +6,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src=" https://th.bing.com/th/id/R.57d0695bec1c57349ef53fd6eebd7b87?rik=Z%2bJ5eeGERyYUPQ&riu=http%3a%2f%2fwww.daviscos.com%2fwp-content%2fuploads%2f2017%2f04%2fdeveloper-on-computer.jpg&ehk=1%2fZEbGigjzZMsfVribh%2bfe%2bZMgVCHcjDVqeVp%2bnJfOw%3d&risl=&pid=ImgRaw&r=0"  />
-</div>
+ <img src="https://raw.githubusercontent.com/mouadchahid1/mouadchahid1/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
