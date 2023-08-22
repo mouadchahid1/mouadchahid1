@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning and experimenting with cutting-edge technologies to enhance my skills and knowledge.<br>🎯 Goals: Continuously improving my Full Stack development capabilities, contributing to open-source projects, and creating innovative web solutions.<br>🎲 Fun fact: I can spend hours coding while listening to my favorite playlist and sipping on a cup of coffee.</p>
+<p align="left">📚 I'm currently learning and experimenting with cutting-edge technologies to enhance my skills and knowledge. <br>🎯 Goals: Continuously improving my Full Stack development capabilities, contributing to open-source projects, and creating innovative web solutions.<br>🎲 Fun fact: I can spend hours coding while listening to my favorite playlist and sipping on a cup of coffee.</p>
 
 ###
 
