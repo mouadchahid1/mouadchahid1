@@ -2,7 +2,7 @@
                                
 ###  
 <p align="left">My name is Mouad chahid and I'm a dedicated Full Stack developer, hailing from Morocco. With a strong expertise  in HTML, CSS, JavaScript, PHP, Python, along with frameworks like React and  Laravel , I  possess the ability to transform concepts into interactive digital solutions.</p>
-                        
+                         
                                       
                                      
 ###                                                                          
