@@ -1,5 +1,5 @@
  <h1 align="left">Hey 👋 What's up?</h1>
-                               
+                                
 ###  
 <p align="left">My name is Mouad chahid and I'm a dedicated Full Stack developer, hailing from Mo rocco. With a  strong expertise  in HTML, CSS, JavaScript, PHP, Python, along with frameworks like React and    Laravel ,   I possess  the abil ity to tran sform concepts into interactive digital solutions.</p>    
                                                                                                                                                                                  
