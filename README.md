@@ -3,7 +3,7 @@
 ###  
 <p align="left">My name is Mouad chahid and I'm a dedicated Full Stack developer, hailing from Morocco. With a  strong expertise  in HTML, CSS, JavaScript, PHP, Python, along with frameworks like React and Laravel ,I possess  the ability to  transform concepts into interactive digital solutions.</p>                                                                                                                                                                                                                                                   
                                                                                                                                                 
-                                                                                
+                                                                                 
  <div style="text-align: center;">               
     <img height="150"     
  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
